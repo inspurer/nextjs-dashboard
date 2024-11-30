@@ -1,7 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 
-import { signOut } from '@/auth';
-
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
